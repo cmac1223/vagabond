@@ -4,7 +4,7 @@
 
 <img width="756" alt="screen shot 2017-06-29 at 11 53 48 am" src="http://imgur.com/6ddq8DY">
 
-Y
+![Imgur](http://i.imgur.com/6ddq8DY.jpg)
 
 This travel application was a 3 person collaboration of [Yeni Nomezqui](https://github.com/Rolita1007), [Kate Montha](https://github.com/katemontha), and [Christopher McClain](https://github.com/cmac1223).
 
