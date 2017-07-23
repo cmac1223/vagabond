@@ -2,7 +2,7 @@
 
 ## This project was created for travelers to show their experience and awesome pictures of their most memorable moments. 
 
-<img width="756" alt="screen shot 2017-06-29 at 11 53 48 am" src="http://imgur.com/6ddq8DY">
+
 
 ![Imgur](http://i.imgur.com/6ddq8DY.jpg)
 
