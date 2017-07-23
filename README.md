@@ -8,7 +8,7 @@
 
 This travel application was a 3 person collaboration of [Yeni Nomezqui](https://github.com/Rolita1007), [Kate Montha](https://github.com/katemontha), and [Christopher McClain](https://github.com/cmac1223).
 
-Check out our project live on [Heroku](https://shielded-mountain-14432.herokuapp.com/)!
+Check out our project live on [Heroku](https://vag-a-bond0.herokuapp.com/)!
 
 ## Technologies utilized in this project:
 * Ruby on Rails 5.1
